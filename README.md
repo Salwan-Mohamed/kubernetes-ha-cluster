@@ -1,6 +1,6 @@
 # Kubernetes High-Availability Cluster
 
-![Kubernetes HA Architecture](./images/k8s-ha-architecture.svg)
+![Kubernetes HA Architecture](./images/topology.jpg)
 
 ## Project Overview
 
