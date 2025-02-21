@@ -79,7 +79,7 @@ chmod +x scripts/setup/deploy-cluster.sh
 
 ## Screenshots
 
-![Cluster Status](./images/screenshots/helth_nodes_components .jpg)
+![Cluster Status](./images/screenshots/helth_nodes_components.jpg)
 ![HAProxy Status](./images/screenshots/HAproxy_status_vip.jpg)
 ![Kubernetes Dashboard](./images/screenshots/kube_system_pods.jpg)
 
